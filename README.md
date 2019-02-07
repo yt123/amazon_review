@@ -1,4 +1,5 @@
 # amazon_review
+Goal: 
 Predicting Amazon review scores based on text analysis
 
 Features:
